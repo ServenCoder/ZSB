@@ -1,0 +1,66 @@
+*.class
+
+#package file
+#*.jar
+*.war
+*.ear
+
+#kdiff3 ignore
+*.orig
+
+#maven
+target/
+
+#eclipse ignore
+.settings/
+.project
+.classpath
+
+#idea ignore
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#system ignore
+.DS_Store
+Thumbs.db
+/.idea
+/.idea
+/accounting-service/*.iml
+/smart-accounting-bd/*.iml
+/smart-accounting-center/*.iml
+/smart-accounting-check/*.iml
+/smart-accounting-common/*.iml
+/smart-accounting-credit/*.iml
+/smart-accounting-custom/*.iml
+/smart-accounting-demo/*.iml
+/smart-accounting-evaluate/*.iml
+/smart-accounting-excel/*.iml
+/smart-accounting-inf/*.iml
+/smart-accounting-manage/*.iml
+/smart-accounting-prewarn/*.iml
+/smart-accounting-privilege/*.iml
+/smart-accounting-sm/*.iml
+/smart-accounting-web/*.iml
+/smart-workflow/*.iml
+/*.iml
+/smart-accounting-inf/smart-accounting-inf-client/*.iml
+/smart-accounting-inf/smart-accounting-inf-server/smart-accounting-inf-server-bd/*.iml
+/smart-accounting-inf/smart-accounting-inf-server/smart-accounting-inf-server-center/*.iml
+/smart-accounting-inf/smart-accounting-inf-server/smart-accounting-inf-server-check/*.iml
+/smart-accounting-inf/smart-accounting-inf-server/smart-accounting-inf-server-credit/*.iml
+/smart-accounting-inf/smart-accounting-inf-server/smart-accounting-inf-server-invoice/*.iml
+/smart-accounting-inf/smart-accounting-inf-server/smart-accounting-inf-server-manage/*.iml
+/smart-accounting-inf/smart-accounting-inf-server/smart-accounting-inf-server-pay/*.iml
+/smart-accounting-inf/smart-accounting-inf-server/smart-accounting-inf-server-repay/*.iml
+/smart-accounting-inf/smart-accounting-inf-server/smart-accounting-inf-server-task/*.iml
+/smart-accounting-inf/smart-accounting-inf-server/*.iml
