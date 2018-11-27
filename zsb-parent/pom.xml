@@ -10,6 +10,7 @@
 
     <modules>
         <module>zsb-core</module>
+        <module>zsb-toolkit</module>
     </modules>
 
     <packaging>pom</packaging>
